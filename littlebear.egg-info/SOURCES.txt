@@ -1,0 +1,8 @@
+README.md
+setup.py
+littlebear/__init__.py
+littlebear/utilitieshy.py
+littlebear.egg-info/PKG-INFO
+littlebear.egg-info/SOURCES.txt
+littlebear.egg-info/dependency_links.txt
+littlebear.egg-info/top_level.txt
