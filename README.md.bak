@@ -16,7 +16,9 @@
 
 ## Functions List:
   1   current_folder = folder_cur()
+
   2   parent_folder  = folder_pre()
+
   3   nparent_folder = folder_npre(folder)
   4   dirs           = getdir_folder_cur()
   5   dirs           = getdir_folder_pre()
