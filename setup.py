@@ -12,10 +12,10 @@ from setuptools import setup, find_packages
 
 setup(
     name = "littlebear",
-    version = "1.0.0",
+    version = "19.11.20",
     keywords = ("pip", "littlebear", "hanyu"),
-    description = " Tool edited by hanyu",
-    long_description = "Description in Github: https://github.com/DruidHanyu/littlebear",
+    description = " Tools edited by hanyu",
+    long_description = "Description in Github: https://github.com/DruidHanyu/pipHanyu",
     license = "Hanyu",
 
     url = "https://github.com/DruidHanyu/pipHanyu",
