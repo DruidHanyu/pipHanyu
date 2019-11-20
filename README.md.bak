@@ -60,7 +60,7 @@
 
   21  N/A            = folder_cur_creat(foldername)
 
-  N/A            = folder_pre_creat(foldername)
+ N/A            = folder_pre_creat(foldername)
 
   22  column         = getcol_csv(file, col=0)
 

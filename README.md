@@ -98,7 +98,7 @@
 
   39  var            = input_detect(var, alpha=False, space=False, digit=False, 
 
-                                    other1=None, other2=None, other3=None, other4=None)
+ other1=None, other2=None, other3=None, other4=None)
 
   40  alldir_suff    = getalldir_folder_filesuff(folder, suff)
 
