@@ -1,6 +1,6 @@
 # pipHanyu
 
-## USE: pip install littlebear £¨1.0.0£©
+## USE: pip install littlebear (1.0.0)
 
 ## Description:
    This file contains some commonly used functions edited by Hanyu.
